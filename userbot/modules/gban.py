@@ -50,7 +50,7 @@ async def gben(userbot):
         dark = await dc.reply("`Gbanning...`")
     else:
         dark = await dc.edit("`Memproses Global Banned Jamet..`")
-    await dark.edit("`Global Banned Akan Segera Aktif..`")
+    await dark.edit("`Global Banned Akan Segera AKTIF MEK..`")
     a = b = 0
     if userbot.is_private:
         user = userbot.chat
